@@ -1,0 +1,212 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="ThemeLightPurple" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple</item>
+        <item name="colorPrimaryVariant">@color/purple</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/purple</item>
+        <item name="colorSecondaryVariant">@color/purple</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/white</item>
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">true</item>
+
+        <!-- Customize your theme here. -->
+        <item name="chipStyle">@style/Chip_Style</item>
+
+
+        //Attribute
+        <item name="banner">@drawable/banner_purple</item>
+
+        <item name="whiteBlack">#ffffff</item>
+        <item name="blackWhite">#000000</item>
+        <item name="surahName">#250000</item>
+        <item name="search">#EAE5E5</item>
+        <item name="searchSheet">#E6FFFFFF</item>
+        <item name="accent">@color/purple</item>
+        <item name="translitaration">#1A6F32C3</item>
+    </style>
+
+    <style name="ThemeLightBlue" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryVariant">@color/blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/blue</item>
+        <item name="colorSecondaryVariant">@color/blue</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/white</item>
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">true</item>
+
+        <!-- Customize your theme here. -->
+        <item name="chipStyle">@style/Chip_Style</item>
+
+
+        //Attribute
+        <item name="banner">@drawable/banner_blue</item>
+
+        <item name="whiteBlack">#ffffff</item>
+        <item name="blackWhite">#000000</item>
+        <item name="surahName">#250000</item>
+        <item name="search">#EAE5E5</item>
+        <item name="searchSheet">#E6FFFFFF</item>
+        <item name="accent">@color/blue</item>
+        <item name="translitaration">#1A2196F3</item>
+    </style>
+
+    <style name="ThemeLightOrange" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimaryVariant">@color/orange</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/orange</item>
+        <item name="colorSecondaryVariant">@color/orange</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/white</item>
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">true</item>
+
+        <!-- Customize your theme here. -->
+        <item name="chipStyle">@style/Chip_Style</item>
+
+
+        //Attribute
+        <item name="banner">@drawable/banner_orange</item>
+
+        <item name="whiteBlack">#ffffff</item>
+        <item name="blackWhite">#000000</item>
+        <item name="surahName">#250000</item>
+        <item name="search">#EAE5E5</item>
+        <item name="searchSheet">#E6FFFFFF</item>
+        <item name="accent">@color/orange</item>
+        <item name="translitaration">#1AFF9800</item>
+    </style>
+
+    //Dark Theme Part
+
+    <style name="ThemeDarkPurple" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purpleLight</item>
+        <item name="colorPrimaryVariant">@color/purpleLight</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/purpleLight</item>
+        <item name="colorSecondaryVariant">@color/purpleLight</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/black</item>
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">false</item>
+        <!-- Customize your theme here. -->
+
+        <item name="chipStyle">@style/Chip_Style</item>
+
+
+        //Attribute
+        <item name="banner">@drawable/banner_purple</item>
+
+        <item name="whiteBlack">#000000</item>
+        <item name="blackWhite">#ffffff</item>
+        <item name="surahName">#FFEFEF</item>
+        <item name="search">#403D3D</item>
+        <item name="searchSheet">#E6232323</item>
+        <item name="accent">@color/purpleLight</item>
+        <item name="translitaration">#1A2196F3</item>
+    </style>
+
+    <style name="ThemeDarkBlue" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryVariant">@color/blue</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/blue</item>
+        <item name="colorSecondaryVariant">@color/blue</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/black</item>
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">false</item>
+        <!-- Customize your theme here. -->
+
+        <item name="chipStyle">@style/Chip_Style</item>
+
+
+        //Attribute
+        <item name="banner">@drawable/banner_blue</item>
+
+        <item name="whiteBlack">#000000</item>
+        <item name="blackWhite">#ffffff</item>
+        <item name="surahName">#FFEFEF</item>
+        <item name="search">#403D3D</item>
+        <item name="searchSheet">#E6232323</item>
+        <item name="accent">@color/blue</item>
+        <item name="translitaration">#1A2196F3</item>
+    </style>
+
+    <style name="ThemeDarkOrange" parent="Theme.MaterialComponents.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimaryVariant">@color/orange</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/orange</item>
+        <item name="colorSecondaryVariant">@color/orange</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/black</item>
+        <item name="android:windowLightStatusBar" tools:ignore="NewApi">false</item>
+        <!-- Customize your theme here. -->
+
+        <item name="chipStyle">@style/Chip_Style</item>
+
+
+        //Attribute
+        <item name="banner">@drawable/banner_orange</item>
+
+        <item name="whiteBlack">#000000</item>
+        <item name="blackWhite">#ffffff</item>
+        <item name="surahName">#FFEFEF</item>
+        <item name="search">#403D3D</item>
+        <item name="searchSheet">#E6232323</item>
+        <item name="accent">@color/orange</item>
+        <item name="translitaration">#1AFF9800</item>
+    </style>
+
+    <style name="TabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="textAllCaps">false</item>
+        <item name="fontFamily">@font/poppins_semibold</item>
+        <item name="android:textSize">@dimen/_12sdp</item>
+    </style>
+
+    <style name="bottomSheet" parent="Theme.MaterialComponents.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/CustomBottomSheetStyle</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+    </style>
+
+    <style name="bottomSheetDark" parent="Theme.MaterialComponents.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/CustomBottomSheetStyle</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowSoftInputMode">adjustResize</item>
+    </style>
+
+    <style name="CustomBottomSheetStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+
+    <style name="RadioGroup" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="colorAccent">?accent</item>
+    </style>
+
+    <style name="Chip_Style" parent="@style/Widget.MaterialComponents.Chip.Choice">
+        <item name="chipBackgroundColor">@color/background_chip_color</item>
+        <item name="android:textColor">@color/text_chip_color</item>
+        <item name="checkedIconVisible">true</item>
+        <item name="checkedIcon">@drawable/ic_check</item>
+    </style>
+
+</resources>

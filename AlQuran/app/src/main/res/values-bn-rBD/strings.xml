@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //Title
+    <string name="app_name">আল কুরআন সঞ্চার</string>
+
+    //Multiple Language
+    <string name="para">পাড়া</string>
+    <string name="surah">সূরা</string>
+    <string name="ayat">আয়াত</string>
+    <string name="starts_at">আরম্ভ</string>
+    <string name="bookmark">বুকমার্ক</string>
+    <string name="last_read">শেষ পড়া</string>
+    <string name="ayat_no">আয়াত নং</string>
+    <string name="meccan">মক্কা</string>
+    <string name="medinan">মদিনা</string>
+    <string name="verses">আয়াত</string>
+    <string name="meaning">অর্থ</string>
+    <string name="no_bookmark">কোন\nবুকমার্ক নেই</string>
+
+    <string name="playing_notification_description">The playing notification provides actions for play/pause etc.</string>
+    <string name="playing_notification_name">Playing notification</string>
+
+    <string name="general">সাধারণ</string>
+    <string name="settings">সেটিংস</string>
+    <string name="language">ভাষা</string>
+    <string name="theme">থিম</string>
+    <string name="dark_mode">ডার্ক মোড</string>
+    <string name="primary_color">মৌলিক রঙ</string>
+    <string name="al_quran">আল কোরআন সঞ্চার</string>
+    <string name="quran">কোরআন</string>
+    <string name="pronunciation">উচ্চারণ</string>
+    <string name="translation">অনুবাদ</string>
+    <string name="font_sizes">ফন্ট সাইজ</string>
+    <string name="application">এপ্লিকেশন</string>
+    <string name="terms_and_condition">শর্তাবলী</string>
+    <string name="privacy_policy">গোপনীয়তা নীতি</string>
+    <string name="help_and_feedback">সাহায্য এবং মতামত</string>
+    <string name="about">সম্পর্কিত</string>
+
+
+
+
+
+
+
+
+
+    //Surah Name List
+    <string name="al_faatiha">আল-ফাতিহা</string>
+    <string name="al_baqara">আল-বাকারা</string>
+    <string name="aal_i_imraan">আল-ইমরান</string>
+    <string name="an_nisaa">নিসা</string>
+    <string name="al_maaida">আল-মায়িদাহ</string>
+    <string name="al_anaam">আল-আনাম</string>
+    <string name="al_araaf">আল-আরাফ</string>
+    <string name="al_anfaal">আল-আনফাল</string>
+    <string name="at_tawba">আত-তাওবাহ</string>
+    <string name="yunus">ইউনুস</string>
+    <string name="hud">হুদ</string>
+    <string name="yusuf">ইউসুফ</string>
+    <string name="ar_rad">আর-রাদ</string>
+    <string name="ibrahim">ইবরাহীম</string>
+    <string name="al_hijr">আল-হিজর</string>
+    <string name="an_nahl">আন-নাহল</string>
+    <string name="al_israa">বনি ইসরাইল</string>
+    <string name="al_kahf">আল-কাহফ</string>
+    <string name="maryam">মারিয়াম</string>
+    <string name="taa_haa">ত্বা হা</string>
+    <string name="al_anbiyaa">আল-আম্বিয়া</string>
+    <string name="al_hajj">আল-হাজ্ব</string>
+    <string name="al_muminoon">আল-মুমিনুন</string>
+    <string name="an_noor">আন-নূর</string>
+    <string name="al_furqaan">আল-ফুরকান</string>
+    <string name="ash_shuaraa">আশ-শুআরা</string>
+    <string name="an_naml">আন-নমল</string>
+    <string name="al_qasas">আল-কাসাস</string>
+    <string name="al_ankaboot">আল-আনকাবুত</string>
+    <string name="ar_room">আল-রুম</string>
+    <string name="luqman">লুকমান</string>
+    <string name="as_sajda">আস-সাজদাহ</string>
+    <string name="al_ahzaab">আল-আহযাব</string>
+    <string name="saba">আস-সাবা</string>
+    <string name="faatir">আল-ফাতির</string>
+    <string name="yaseen">ইয়া সিন</string>
+    <string name="as_saaffaat">আস-সাফফাত</string>
+    <string name="saad">সোয়াদ</string>
+    <string name="az_zumar">আয-যুমার</string>
+    <string name="ghafir">আল-মুমিন</string>
+    <string name="fussilat">হামিম সাজদাহ</string>
+    <string name="ash_shura">আশ-শূরা</string>
+    <string name="az_zukhruf">আয-যুখরুফ</string>
+    <string name="ad_dukhaan">আদ-দুখান</string>
+    <string name="al_jaathiya">আল-জাসিয়াহ</string>
+    <string name="al_ahqaf">আল-আহকাফ</string>
+    <string name="muhammad">মুহাম্মদ</string>
+    <string name="al_fath">আল-ফাতহ</string>
+    <string name="al_hujuraat">আল-হুজুরাত</string>
+    <string name="qaaf">ক্বাফ</string>
+    <string name="adh_dhaariyat">আয-যারিয়াত</string>
+    <string name="at_tur">আত-তুর</string>
+    <string name="an_najm">আন-নাজম</string>
+    <string name="al_qamar">আল-ক্বমর</string>
+    <string name="ar_rahmaan">আর-রাহমান</string>
+    <string name="al_waaqia">আল-ওয়াকিয়াহ</string>
+    <string name="al_hadid">আল-হাদিদ</string>
+    <string name="al_mujaadila">আল-মুজাদিলাহ</string>
+    <string name="al_hashr">আল-হাশর</string>
+    <string name="al_mumtahana">আল-মুমতাহানা</string>
+    <string name="as_saff">আস-সাফ</string>
+    <string name="al_jumua">আল-জুমুআহ</string>
+    <string name="al_munaafiqoon">আল-মুনাফিকুন</string>
+    <string name="at_taghaabun">আত-তাগাবুন</string>
+    <string name="at_talaaq">আত-ত্বালাক</string>
+    <string name="at_tahrim">আত-তাহরীম</string>
+    <string name="al_mulk">আল-মুলক</string>
+    <string name="al_qalam">আল-ক্বলম</string>
+    <string name="al_haaqqa">আল-হাক্ক্বাহ</string>
+    <string name="al_maaarij">আল-মাআরিজ</string>
+    <string name="nooh">নূহ</string>
+    <string name="al_jinn">আল-জ্বিন</string>
+    <string name="al_muzzammil">মুযাম্মিল</string>
+    <string name="al_muddaththir">মুদাসসির</string>
+    <string name="al_qiyaama">আল-কিয়ামাহ</string>
+    <string name="al_insaan">আল-ইনসান</string>
+    <string name="al_mursalaat">আল-মুরসালাত</string>
+    <string name="an_naba">আন-নাবা</string>
+    <string name="an_naaziaat">আন-নাযিয়াত</string>
+    <string name="abasa">আবাসা</string>
+    <string name="at_takwir">আত-তাকবির</string>
+    <string name="al_infitaar">আল-ইনফিতার</string>
+    <string name="al_mutaffifin">মুতাফ্ফিফীন</string>
+    <string name="al_inshiqaaq">আল-ইনশিকাক</string>
+    <string name="al_burooj">আল-বুরুজ</string>
+    <string name="at_taariq">আত-তারিক</string>
+    <string name="al_alaa">আল-আলা</string>
+    <string name="al_ghaashiya">আল-গাশিয়াহ</string>
+
+      (ডুমুর) ৯৬।  (রক্তপিন্ড) ৯৭।  (মহিমান্বিত) ৯৮।  (সুস্পষ্ট প্রমাণ) ৯৯।  (ভূমিকম্প)
+
+    <string name="al_fajr">আল-ফজর</string>
+    <string name="al_balad">আল-বালাদ</string>
+    <string name="ash_shams">আশ-শামস</string>
+    <string name="al_lail">আল-লাইল</string>
+    <string name="ad_dhuhaa">আদ-দুহা</string>
+    <string name="ash_sharh">আল-ইনশিরাহ</string>
+    <string name="at_tin">আত-তীন</string>
+    <string name="al_alaq">আল-আলাক</string>
+    <string name="al_qadr">আল-ক্বাদর</string>
+    <string name="al_bayyina">আল-বাইয়িনাহ</string>
+    <string name="az_zalzala">আল-যিলযাল</string>
+    <string name="al_aadiyaat">আল-আদিয়াত</string>
+    <string name="al_qaaria">আল-কারিয়াহ</string>
+    <string name="at_takaathur">আত-তাকাছুর</string>
+    <string name="al_asr">আল-আসর</string>
+    <string name="al_humaza">আল-হুমাযাহ</string>
+    <string name="al_fil">ফীল</string>
+    <string name="quraish">আল-কুরাইশ</string>
+    <string name="al_maaun">আল-মাউন</string>
+    <string name="al_kawthar">আল-কাওসার</string>
+    <string name="al_kaafiroon">আল-কাফিরুন</string>
+    <string name="an_nasr">আন-নাসর</string>
+    <string name="al_masad">লাহাব</string>
+    <string name="al_ikhlaas">আল-ইখলাস</string>
+    <string name="al_falaq">আল-ফালাক</string>
+    <string name="an_naas">আন-নাস</string>
+
+    <string-array name="surah_name">
+        <item>@string/al_faatiha</item>
+        <item>@string/al_baqara</item>
+        <item>@string/aal_i_imraan</item>
+        <item>@string/an_nisaa</item>
+        <item>@string/al_maaida</item>
+        <item>@string/al_anaam</item>
+        <item>@string/al_araaf</item>
+        <item>@string/al_anfaal</item>
+        <item>@string/at_tawba</item>
+        <item>@string/yunus</item>
+        <item>@string/hud</item>
+        <item>@string/yusuf</item>
+        <item>@string/ar_rad</item>
+        <item>@string/ibrahim</item>
+        <item>@string/al_hijr</item>
+        <item>@string/an_nahl</item>
+        <item>@string/al_israa</item>
+        <item>@string/al_kahf</item>
+        <item>@string/maryam</item>
+        <item>@string/taa_haa</item>
+        <item>@string/al_anbiyaa</item>
+        <item>@string/al_hajj</item>
+        <item>@string/al_muminoon</item>
+        <item>@string/an_noor</item>
+        <item>@string/al_furqaan</item>
+        <item>@string/ash_shuaraa</item>
+        <item>@string/an_naml</item>
+        <item>@string/al_qasas</item>
+        <item>@string/al_ankaboot</item>
+        <item>@string/ar_room</item>
+        <item>@string/luqman</item>
+        <item>@string/as_sajda</item>
+        <item>@string/al_ahzaab</item>
+        <item>@string/saba</item>
+        <item>@string/faatir</item>
+        <item>@string/yaseen</item>
+        <item>@string/as_saaffaat</item>
+        <item>@string/saad</item>
+        <item>@string/az_zumar</item>
+        <item>@string/ghafir</item>
+        <item>@string/fussilat</item>
+        <item>@string/ash_shura</item>
+        <item>@string/az_zukhruf</item>
+        <item>@string/ad_dukhaan</item>
+        <item>@string/al_jaathiya</item>
+        <item>@string/al_ahqaf</item>
+        <item>@string/muhammad</item>
+        <item>@string/al_fath</item>
+        <item>@string/al_hujuraat</item>
+        <item>@string/qaaf</item>
+        <item>@string/adh_dhaariyat</item>
+        <item>@string/at_tur</item>
+        <item>@string/an_najm</item>
+        <item>@string/al_qamar</item>
+        <item>@string/ar_rahmaan</item>
+        <item>@string/al_waaqia</item>
+        <item>@string/al_hadid</item>
+        <item>@string/al_mujaadila</item>
+        <item>@string/al_hashr</item>
+        <item>@string/al_mumtahana</item>
+        <item>@string/as_saff</item>
+        <item>@string/al_jumua</item>
+        <item>@string/al_munaafiqoon</item>
+        <item>@string/at_taghaabun</item>
+        <item>@string/at_talaaq</item>
+        <item>@string/at_tahrim</item>
+        <item>@string/al_mulk</item>
+        <item>@string/al_qalam</item>
+        <item>@string/al_haaqqa</item>
+        <item>@string/al_maaarij</item>
+        <item>@string/nooh</item>
+        <item>@string/al_jinn</item>
+        <item>@string/al_muzzammil</item>
+        <item>@string/al_muddaththir</item>
+        <item>@string/al_qiyaama</item>
+        <item>@string/al_insaan</item>
+        <item>@string/al_mursalaat</item>
+        <item>@string/an_naba</item>
+        <item>@string/an_naaziaat</item>
+        <item>@string/abasa</item>
+        <item>@string/at_takwir</item>
+        <item>@string/al_infitaar</item>
+        <item>@string/al_mutaffifin</item>
+        <item>@string/al_inshiqaaq</item>
+        <item>@string/al_burooj</item>
+        <item>@string/at_taariq</item>
+        <item>@string/al_alaa</item>
+        <item>@string/al_ghaashiya</item>
+        <item>@string/al_fajr</item>
+        <item>@string/al_balad</item>
+        <item>@string/ash_shams</item>
+        <item>@string/al_lail</item>
+        <item>@string/ad_dhuhaa</item>
+        <item>@string/ash_sharh</item>
+        <item>@string/at_tin</item>
+        <item>@string/al_alaq</item>
+        <item>@string/al_qadr</item>
+        <item>@string/al_bayyina</item>
+        <item>@string/az_zalzala</item>
+        <item>@string/al_aadiyaat</item>
+        <item>@string/al_qaaria</item>
+        <item>@string/at_takaathur</item>
+        <item>@string/al_asr</item>
+        <item>@string/al_humaza</item>
+        <item>@string/al_fil</item>
+        <item>@string/quraish</item>
+        <item>@string/al_maaun</item>
+        <item>@string/al_kawthar</item>
+        <item>@string/al_kaafiroon</item>
+        <item>@string/an_nasr</item>
+        <item>@string/al_masad</item>
+        <item>@string/al_ikhlaas</item>
+        <item>@string/al_falaq</item>
+        <item>@string/an_naas</item>
+    </string-array>
+</resources>

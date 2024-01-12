@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313851877933",
+    "project_id": "al-quran-shonchar-53167",
+    "storage_bucket": "al-quran-shonchar-53167.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313851877933:android:82a69c58d69d681a2ff6a4",
+        "android_client_info": {
+          "package_name": "com.alquran.shonchar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAi_0zIm25cSUD0Bs4DN3PaRKwdfjBr-68"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
